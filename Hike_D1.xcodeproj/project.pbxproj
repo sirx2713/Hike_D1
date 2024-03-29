@@ -11,6 +11,10 @@
 		2EC6C47E2BB68E7F000019F3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC6C47D2BB68E7F000019F3 /* ContentView.swift */; };
 		2EC6C4802BB68E80000019F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EC6C47F2BB68E80000019F3 /* Assets.xcassets */; };
 		2EC6C4832BB68E80000019F3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EC6C4822BB68E80000019F3 /* Preview Assets.xcassets */; };
+		2EC6C48A2BB68EA0000019F3 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC6C4892BB68EA0000019F3 /* CardView.swift */; };
+		2EC6C48C2BB68F32000019F3 /* colorInstances.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC6C48B2BB68F32000019F3 /* colorInstances.swift */; };
+		2EC6C4902BB690D3000019F3 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC6C48F2BB690D3000019F3 /* CircleView.swift */; };
+		2EC6C4922BB69308000019F3 /* CustomBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC6C4912BB69308000019F3 /* CustomBackgroundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		2EC6C47D2BB68E7F000019F3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EC6C47F2BB68E80000019F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EC6C4822BB68E80000019F3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EC6C4892BB68EA0000019F3 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		2EC6C48B2BB68F32000019F3 /* colorInstances.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colorInstances.swift; sourceTree = "<group>"; };
+		2EC6C48F2BB690D3000019F3 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		2EC6C4912BB69308000019F3 /* CustomBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackgroundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +63,10 @@
 				2EC6C47D2BB68E7F000019F3 /* ContentView.swift */,
 				2EC6C47F2BB68E80000019F3 /* Assets.xcassets */,
 				2EC6C4812BB68E80000019F3 /* Preview Content */,
+				2EC6C4892BB68EA0000019F3 /* CardView.swift */,
+				2EC6C48B2BB68F32000019F3 /* colorInstances.swift */,
+				2EC6C48F2BB690D3000019F3 /* CircleView.swift */,
+				2EC6C4912BB69308000019F3 /* CustomBackgroundView.swift */,
 			);
 			path = Hike_D1;
 			sourceTree = "<group>";
@@ -138,6 +150,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EC6C47E2BB68E7F000019F3 /* ContentView.swift in Sources */,
+				2EC6C4902BB690D3000019F3 /* CircleView.swift in Sources */,
+				2EC6C48A2BB68EA0000019F3 /* CardView.swift in Sources */,
+				2EC6C4922BB69308000019F3 /* CustomBackgroundView.swift in Sources */,
+				2EC6C48C2BB68F32000019F3 /* colorInstances.swift in Sources */,
 				2EC6C47C2BB68E7F000019F3 /* Hike_D1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

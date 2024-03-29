@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  CardView.swift
 //  Hike_D1
 //
 //  Created by Tafadzwa Alexander Razaro on 2024/03/29.
@@ -7,12 +7,14 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct CardView: View {
     var body: some View {
-        CardView()
+        ZStack{
+            CircleView()
+        }
     }
 }
 
 #Preview {
-    ContentView()
+    CardView()
 }
